@@ -16,7 +16,7 @@ You will have been assigned a technical mentor to give you guidance when require
 
 ### Prerequisites
 1. Basic programming knowledge in Java, Node.js, Python, or any other programming language you're comfortable with.
-2. Access to OpenAI API (GPT-3 or GPT-4)
+2. Access to OpenAI API (GPT-3 or GPT-4), or an equivolent ML model/API.
 
 ### Examples
 A Java example showcasing how to use the OpenAI API is included in this repository. If you prefer other programming languages like Node.js or Python, plenty of examples are readily available online.
