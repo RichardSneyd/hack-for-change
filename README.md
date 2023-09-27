@@ -1,4 +1,4 @@
-# Hack for Change: Workplace Inclusion Using AI
+# Hack for Change: Technical Guide
 
 ## Introduction
 
