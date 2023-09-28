@@ -7,7 +7,7 @@ public class ChatGPTExample {
 
     public static String getGPTResponse(String prompt) {
         String url = "https://api.openai.com/v1/chat/completions";
-        String apiKey = "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";
+        String apiKey = "YOUR_KEY_HERE";
         String model = "gpt-3.5-turbo";
 
         try {
